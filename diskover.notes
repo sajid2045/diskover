@@ -1,0 +1,3 @@
+python diskover.py -d /rootpath/you/want/to/crawl -i diskover-indexname -a -O
+
+python diskover.py -d /mnt -i diskover-projects -a -O

@@ -1,3 +1,5 @@
+__pycache__/
 _config.yml
 /docs/*
 .DS_Store
+.idea
